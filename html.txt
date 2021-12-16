@@ -18,3 +18,10 @@ https://advancedwebranking.com/html/
 
 <a>: 링크를 건다. href로 주소를 넣음. target="_blank" 새창에서 페이지가 열림.
 	 title="" 툴팁을 보여준다.
+
+http://127.0.0.1:8080/index.html
+127.0.0.1 : IP Address
+8080 : 포트
+웹브라우저는 웹서버에게 index.html을 요청함.
+웹서버는 저장된 index.html 코드를 읽어서 웹브라우저에 전송.
+웹브라우저는 코드를 해석해서 화면에 웹페이지를 표시.
